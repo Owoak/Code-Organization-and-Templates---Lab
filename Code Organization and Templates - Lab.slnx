@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01. Compile/01. Compile.vcxproj" Id="f78904c9-e7ea-48bd-b907-d88927efef72" />
+  <Project Path="02. Censorship/02. Censorship.vcxproj" Id="cda7a2a9-1662-460b-b24a-1eda5aea6a6e" />
+  <Project Path="03. Parser/03. Parser.vcxproj" Id="1a68fff9-d44f-4e64-85a9-a1083ee98ac3" />
+  <Project Path="04. Split and Join/04. Split and Join.vcxproj" Id="090e01e5-e1af-4ab4-ac56-8b9bcc5b7732" />
+  <Project Path="05. Sorting/05. Sorting.vcxproj" Id="a8fc2004-1bd3-48b2-b6ed-f593c134e681" />
+</Solution>
